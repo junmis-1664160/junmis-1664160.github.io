@@ -1,0 +1,76 @@
+#Header {
+	width: 500px;
+	/*change hight*/
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	border: solid 8px #82C4BD;
+	text-align: center;
+ 	/*change into serif font*/
+	font-family: "Times New Roman", Times, red serif;
+}
+
+#LeftNav{
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	float: left;
+	border: solid 8px #82C4BD;
+	text-align: center;
+	padding-bottom: 8px;
+}
+
+#Content{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px #82C4BD;
+	text-align: center;
+	padding: 15px;
+}
+
+#Footer{
+	border: solid 8px #82C4BD;
+		text-align: center;
+}
+
+ul{
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+#Header h1 {
+	font-size: 60px;
+	/*change into serif font*/
+	font-family: "Times New Roman", Times, serif;
+	color: #C48189;
+	font-weight: bold;
+	/* uppercase the title*/
+	text-transform: uppercase;
+	/*change the space between letters*/
+	letter-spacing: 4px;
+}
+
+p {
+	color: white;
+	font-family: "Arial";
+}
+
+h3 {
+	color: #C48189;
+	/* Add underline*/
+	text-decoration: underline;
+	/* capitalize the title*/
+	text-transform: capitalize;
+}
+
+div {
+	background-color: #6F4E37;
+}
+
+body {
+	background-image: url('dark_wood.png');
+}
