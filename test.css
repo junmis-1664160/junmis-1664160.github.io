@@ -7,8 +7,6 @@
 	margin-bottom: 30px;
 	border: solid 8px #82C4BD;
 	text-align: center;
- 	/*change into serif font*/
-	font-family: "Times New Roman", Times, red serif;
 }
 
 #LeftNav{
@@ -57,6 +55,10 @@ ul{
 p {
 	color: white;
 	font-family: "Arial";
+	/*specify the indentation of the first line of a text*/
+	text-indent: 50px;
+	/*specify the space between lines*/
+	line-height: 1.5;
 }
 
 h3 {
