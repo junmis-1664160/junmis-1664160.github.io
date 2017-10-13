@@ -1,0 +1,50 @@
+body {
+	background-image: url('dance2.png');
+}
+
+h1 {
+	text-transform: capitalize;
+	font-family: "Arial";
+	font-style: normal;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+h3 {
+	color: #C48189;
+	text-decoration: underline;
+	text-transform: capitalize;
+}
+
+#IntroHead {
+	width: 700px;
+	margin-top: 100px;
+	margin-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid 8px #ff9999;
+	text-align: center;
+}
+
+#IdealP {
+	width: 400px;
+	margin-left: 20px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	float: right;
+	border: solid 8px #82C4BD;
+	text-align: center;
+	padding-bottom: 8px;
+	background-color: #ffcccc;
+
+}
+
+#Experience1 {
+ 	width: 400px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	border: solid 8px #ff9999;
+	text-align: center;
+	background-color: #ffddcc;
+}
+
